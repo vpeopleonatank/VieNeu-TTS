@@ -19,3 +19,7 @@ finetune/output/
 
 # Merged Models
 merged_models_cache/
+
+# Offline Windows installer build output
+installer/build/
+installer/dist/
